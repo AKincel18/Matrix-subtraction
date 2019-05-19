@@ -1,0 +1,5 @@
+22.10.18 v0.2 Szablon projektu uzupe³niony o wczytywanie danych oraz wykrywanie rdzeni procesora.
+29.10.18 v0.4 Dodawanie danych do w¹tków.
+12.11.18 v0.6 Implementacja DLL w C++.
+26.11.18 v0.8 Imlementacja DLL w ASM.
+03.12.18 v1.0 Wersja koñcowa.
